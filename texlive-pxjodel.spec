@@ -1,6 +1,6 @@
 Name:		texlive-pxjodel
 Version:	64072
-Release:	1
+Release:	2
 Summary:	Help change metrics of fonts from japanese-otf
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pxjodel
