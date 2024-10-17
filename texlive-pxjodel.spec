@@ -3,7 +3,7 @@ Version:	64072
 Release:	2
 Summary:	Help change metrics of fonts from japanese-otf
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pxjodel
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pxjodel
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxjodel.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxjodel.doc.r%{version}.tar.xz
